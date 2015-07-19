@@ -409,3 +409,7 @@ Blowfish.prototype.decipher=function(){
 	t.xl_par=Xr;
 	t.xr_par=Xl;
 };
+
+Blowfish.prototype.ecb()=function(){
+	
+};
